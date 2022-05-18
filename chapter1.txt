@@ -1,2 +1,4 @@
 I love Git!
 Added on branche alien!
+
+I will try to rebase it interactively.
